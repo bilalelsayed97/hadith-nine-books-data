@@ -67,7 +67,3 @@ Tables: `Books`, `Hadeths`, `HadethsSubjects`, `Takhrig`, `Ahkam`, `Rwah`, `Rwah
 2. Here, run `scripts/publish.sh 2026.09.1`. It checks every asset against the manifest, commits `manifest.json`, pushes, and creates the release.
 
 A release asset can be up to 2 GiB. The largest file here is 45 MiB.
-
-## Source and rights
-
-The texts come from the classical hadith collections. The editions, numbering, takhrij, rulings and narrator data follow the editions named in each book's description. See [NOTICE](NOTICE).
