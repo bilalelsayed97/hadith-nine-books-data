@@ -1,0 +1,5 @@
+# Build output: book databases go to GitHub Releases, never into git.
+dist/
+*.db
+*.db-journal
+.DS_Store
