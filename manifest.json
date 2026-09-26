@@ -10,7 +10,7 @@
       "dbSize": 99844096,
       "dbSha256": "d270382f3b10e1d39bd52289f01790bb740239e45853743ce8cb4e46cc6c33b7",
       "hadithCount": 7103,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_7.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_7.db.gz"
     },
     {
       "bookId": 5,
@@ -20,7 +20,7 @@
       "dbSize": 63897600,
       "dbSha256": "fe527942b79fd2c8c1330f20ff46dfbe3e27071597a0d4761e92903b4177022e",
       "hadithCount": 5445,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_5.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_5.db.gz"
     },
     {
       "bookId": 6,
@@ -30,7 +30,7 @@
       "dbSize": 63078400,
       "dbSha256": "aea4b8462c82ece5e7b303c109b92ddedfcd257ef8787d91c30dd3d0bf85bbfb",
       "hadithCount": 4601,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_6.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_6.db.gz"
     },
     {
       "bookId": 4,
@@ -40,7 +40,7 @@
       "dbSize": 60481536,
       "dbSha256": "7a27abbcbc81bb5ca3b13cb8e5dbb7e3d9707d6f34cb914244a1f5df78911740",
       "hadithCount": 3888,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_4.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_4.db.gz"
     },
     {
       "bookId": 1,
@@ -50,7 +50,7 @@
       "dbSize": 63225856,
       "dbSha256": "663c171993b9aaaa24ec2a598a2b8202e9e79111f73e86a5bbbd8f855a388a20",
       "hadithCount": 5665,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_1.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_1.db.gz"
     },
     {
       "bookId": 2,
@@ -60,7 +60,7 @@
       "dbSize": 48177152,
       "dbSha256": "3e0b02806ca92b6257298f7d0deddaa49b93e614d3dc870d02df2da2e5481801",
       "hadithCount": 4331,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_2.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_2.db.gz"
     },
     {
       "bookId": 9,
@@ -70,7 +70,7 @@
       "dbSize": 25272320,
       "dbSha256": "f8f8cc7f491bd3e756315f4d41e8b670639747f41af299d22cf3e5ccea49b4a4",
       "hadithCount": 1756,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_9.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_9.db.gz"
     },
     {
       "bookId": 8,
@@ -80,7 +80,7 @@
       "dbSize": 31244288,
       "dbSha256": "d60e5faef94a63fe1ca8a705d1cf255281686a4b5bfc3fb8cd995c4702ccdff0",
       "hadithCount": 3368,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_8.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_8.db.gz"
     },
     {
       "bookId": 11,
@@ -90,7 +90,7 @@
       "dbSize": 226041856,
       "dbSha256": "4edb0a049302b0054c016af33fdaf7b01ab8df97843764cd57aa401b934ca9b5",
       "hadithCount": 26378,
-      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.09.1/book_11.db.gz"
+      "url": "https://github.com/bilalelsayed97/hadith-nine-books-data/releases/download/v2026.10.1/book_11.db.gz"
     },
     {
       "bookId": 101,

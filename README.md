@@ -30,7 +30,7 @@ https://github.com/bilalelsayed97/hadith-nine-books-data/releases/latest/downloa
 | 16 | 107 | الأدب المفرد | 744 KiB |
 | 17 | 108 | الشمائل المحمدية | 224 KiB |
 
-Downloading all 17 books takes 141.6 MiB. Books 101–108 were added in release v2026.10.1, converted from sunnah.com-style databases into the same schema. They also carry an English `Translation`, a `TakhrijText` and a lower-cased `TranslationSearch` column. The nine books stay on release v2026.09.1.
+Downloading all 17 books takes 141.6 MiB. All 17 are in release v2026.10.1. Books 101–108 were converted from sunnah.com-style databases into the same schema, and also carry an English `Translation`, a `TakhrijText` and a lower-cased `TranslationSearch` column.
 
 ## Manifest
 
