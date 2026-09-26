@@ -1,6 +1,6 @@
 # Nine Books hadith data
 
-This repo publishes the data for the **Hadith** library in the Quran Kareem app. It holds nine hadith collections, one downloadable SQLite database per book. The app downloads only the books the user picks.
+This repo publishes the data for the **Hadith** library in the Quran Kareem app. It holds the nine books plus eight more collections, one downloadable SQLite database per book. The app downloads only the books the user picks.
 
 The databases are **not committed**. They are attached to each [GitHub Release](../../releases) as `book_<BookID>.db.gz`, next to a `manifest.json`. The app reads the manifest from the latest release:
 
@@ -21,8 +21,16 @@ https://github.com/bilalelsayed97/hadith-nine-books-data/releases/latest/downloa
 | 7 | 9 | موطأ مالك | 5.2 MiB |
 | 8 | 8 | سنن الدارمي | 6.1 MiB |
 | 9 | 11 | مسند أحمد | 45.0 MiB |
+| 10 | 101 | رياض الصالحين | 961 KiB |
+| 11 | 102 | بلوغ المرام | 873 KiB |
+| 12 | 103 | الأربعون النووية | 40 KiB |
+| 13 | 104 | الأربعون القدسية | 41 KiB |
+| 14 | 105 | أربعون شاه ولي الله الدهلوي | 12 KiB |
+| 15 | 106 | مشكاة المصابيح | 2.2 MiB |
+| 16 | 107 | الأدب المفرد | 744 KiB |
+| 17 | 108 | الشمائل المحمدية | 224 KiB |
 
-Downloading all nine books takes 136.6 MiB (about 650 MiB once uncompressed).
+Downloading all 17 books takes 141.6 MiB. Books 101–108 were added in release v2026.10.1, converted from sunnah.com-style databases into the same schema. They also carry an English `Translation`, a `TakhrijText` and a lower-cased `TranslationSearch` column. The nine books stay on release v2026.09.1.
 
 ## Manifest
 
